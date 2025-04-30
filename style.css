@@ -1,0 +1,21 @@
+#result {
+    display: flex;
+    height: 20px;
+    width: 100%;
+    border: solid 1px
+}
+
+#keys {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+    display: flex;
+    flex: 1 1 calc(25%)
+}
+
+#n0 {
+    display: flex;
+    flex: 1 1 calc(50%)
+}
